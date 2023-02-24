@@ -2,7 +2,7 @@
 [![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm SOHPORS</h1>
-<h3 align="center">A passionate frontend and backend developer..! </h3>
+<h3 align="center">A passionate frontend developer..! </h3>
 <img align="right" width="30%" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophors6003&label=Profile%20views&color=0e75b6&style=flat" alt="sophors6003" /> </p>
