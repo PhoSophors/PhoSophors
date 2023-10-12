@@ -1,5 +1,5 @@
 
-[![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm SOHPORS</h1>
 <h3 align="center">A passionate frontend and backend developer..! </h3>
