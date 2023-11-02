@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Laravel, React JS**
 
-- 📝 I regularly write articles on [https://sophorsteachestech.blogspot.com/](https://sophorsteachestech.blogspot.com/)
-
 - 📫 How to reach me **phosophors.097@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny 😁**
