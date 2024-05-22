@@ -2,15 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm SOHPORS</h1>
-<h3 align="center">A passionate frontend and backend developer..! </h3>
+<h3 align="center">A passionate Full Stack Software developer..! </h3>
 <img align="right" width="30%" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophors6003&label=Profile%20views&color=0e75b6&style=flat" alt="sophors6003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/phosophors" target="blank"><img src="https://img.shields.io/twitter/follow/phosophors?logo=twitter&style=for-the-badge" alt="phosophors" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, React JS**
-
+- 🌱 A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with **Nodejs / Express JS / React.js / Vue.Js / Kotlin / IOS** and some other cool libraries and frameworks.
 - 📫 How to reach me **phosophors.097@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny 😁**
