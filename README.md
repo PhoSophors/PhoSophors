@@ -20,7 +20,7 @@
 <a href="https://twitter.com/phosophors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phosophors" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pho-sophors-241b84223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pho-sophors-241b84223" height="30" width="40" /></a>
 <a href="https://fb.com/pho.sophors.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pho.sophors.3" height="30" width="40" /></a>
-<a href="https://instagram.com/so_phors1._.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="so_phors1._.1" height="30" width="40" /></a>
+<a href="https://instagram.com/sophors1._.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="so_phors1._.1" height="30" width="40" /></a>
 <a href="https://discord.gg/Phors#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phors#0001" height="30" width="40" /></a>
 </p>
 
