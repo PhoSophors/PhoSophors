@@ -9,20 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/phosophors" target="blank"><img src="https://img.shields.io/twitter/follow/phosophors?logo=twitter&style=for-the-badge" alt="phosophors" /></a> </p>
 
-- 🌱 A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with **Nodejs / Express JS / React.js / Vue.Js / Kotlin / IOS** and some other cool libraries and frameworks.
-- 📫 How to reach me **phosophors.097@gmail.com**
+- 🌱 A passionate Full Stack Software Developer 🚀 with hands-on experience building scalable Web and Mobile applications. Skilled in designing and maintaining **microservices architectures**, integrating with **MariaDB** and **MongoDB**, and leveraging modern ORMs like **Knex** and **Drizzle**.
+
+- 💻 Proficient across a wide range of technologies including:
+  - **Backend**: Node.js, Express.js, Spring Boot
+  - **Frontend**: Next.js, React.js, Vue.js
+  - **Mobile**: iOS (Swift/Kotlin)
+  - **Languages & Tools**: TypeScript, RESTful APIs, modular UI/backend coordination
+
+- 🔧 Focused on building maintainable, reliable, and performant systems with clean architecture, explicit error handling, and robust database integrations.
+
+- 📫 How to reach me **https://t.me/pho_sophors**
 
 - ⚡ Fun fact **I Think I am Funny 😁**
-- 👨‍💻 This is my last project of bachelor degree **https://khmerpodcast.vercel.app**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/phosophors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phosophors" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pho-sophors-241b84223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pho-sophors-241b84223" height="30" width="40" /></a>
-<a href="https://fb.com/pho.sophors.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pho.sophors.3" height="30" width="40" /></a>
-<a href="https://instagram.com/sophors1._.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="so_phors1._.1" height="30" width="40" /></a>
-<a href="https://discord.gg/Phors#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Phors#0001" height="30" width="40" /></a>
-</p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PhoSophors&show_icons=true&locale=en" alt="PhoSophors" /></p>
